@@ -5,4 +5,4 @@ vim experience.
 
 # Screenshot
 
-![In Terminal](http://fs.daddye.it/4Y1A+)
+![screen shot 2015-05-21 at 6 29 53 pm](https://cloud.githubusercontent.com/assets/16459/7759439/bd47f384-ffe7-11e4-8d75-eaab5784c044.png)
