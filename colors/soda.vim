@@ -22,7 +22,7 @@ hi LineNr ctermfg=250 ctermbg=NONE cterm=NONE guifg=#aaaaaa guibg=NONE gui=NONE
 hi VertSplit ctermfg=255 ctermbg=254 cterm=NONE guifg=#cecece guibg=#cecece gui=NONE
 hi MatchParen ctermfg=161 ctermbg=NONE cterm=bold guifg=#61862f guibg=NONE gui=bold
 hi StatusLine ctermfg=0 ctermbg=15 cterm=bold guifg=#e6e6e6 guibg=#b5b5b5 gui=bold
-hi StatusLineNC ctermfg=0 ctermbg=15 cterm=NONE guifg=#e6e6e6 guibg=#b5b5b5 gui=NONE
+hi StatusLineNC ctermfg=248 ctermbg=15 guifg=#adadad guibg=#ffffff
 hi Pmenu ctermfg=64 ctermbg=NONE cterm=NONE guifg=#61862f guibg=NONE gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=153 cterm=NONE guifg=NONE guibg=#c2e8ff gui=NONE
 hi IncSearch ctermfg=NONE ctermbg=153 cterm=NONE guifg=NONE guibg=#c4daed gui=NONE
@@ -30,7 +30,7 @@ hi Search ctermfg=NONE ctermbg=153 cterm=NONE guifg=NONE guibg=#c4daed gui=NONE
 hi Directory ctermfg=61 ctermbg=NONE cterm=NONE guifg=#606aa1 guibg=NONE gui=NONE
 hi Folded ctermfg=248 ctermbg=15 cterm=NONE guifg=#adadad guibg=#ffffff gui=NONE
 hi NonText term=bold ctermfg=254 gui=bold guifg=#adadad
-
+hi Error term=reverse ctermfg=0 ctermbg=White guifg=White guibg=White
 hi Boolean ctermfg=97 ctermbg=NONE cterm=NONE guifg=#7653c1 guibg=#f3f2ff gui=NONE
 hi Character ctermfg=130 ctermbg=NONE cterm=NONE guifg=#bc670f guibg=#fffdf7 gui=NONE
 hi Comment ctermfg=248 ctermbg=NONE cterm=NONE guifg=#adadad guibg=NONE gui=NONE
